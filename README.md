@@ -1,7 +1,7 @@
 # web-scraping-challenge
 # Background
 
-A web-scraping and data analysis project was taken in this practice including identifying HTML elements on a page with their id and class attributes, and extracting information via both automated browsing with Splinter and HTML parsing with Beautiful Soup though which the core skills including collecting data, organizing and storing data, analyzing data, and then visually communicationg were stengthened.
+A web-scraping and data analysis project was taken in this practice including identifying HTML elements on a page with their id and class attributes, and extracting information via both automated browsing with Splinter and HTML parsing with Beautiful Soup though which the core skills including collecting data, organizing and storing data, analyzing data, and then visually communication were stengthened.
 
 # List of Content
 
